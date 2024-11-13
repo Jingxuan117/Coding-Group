@@ -46,7 +46,7 @@ function setup() {
   blue = color(68, 104, 178);
   grey = color(217, 218, 212);
   red = color(165, 57, 45);
-  darkgery = (114, 113, 113);
+  darkgery = color(114, 113, 113);
 
   let colors = [yellow, blue, grey, red];
 
